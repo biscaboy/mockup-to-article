@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+Since I'm returning not only to web development, but also returning to this program to complete a nanodegree that I already started, I've been exposed to these concepts before.  However, I did find that things have changed in a few ways since I last looked over the documentation for HTML on the Mozilla Developer's Network.  The documentation is more robust and there is more detail and a new way to navigate the site.  This was all new to me.
+
+Since I'm experienced in programming this material was very simple for me.
+
+However, that being said, I did find it a bit confusing when I went to go use the <em>, <b> and the <strong> tags.  They are all related and seem to do the same thing, but after reviewing the MDN docs about it I found that there are subtile differences of which I was not aware.  That actually I found a little difficult!
+
+Documentation is a wonderful gift to developers and I used the great documentation on the internet to answer my questions.  I hope I got it right as I added tags to the Humans vs Machines text!
